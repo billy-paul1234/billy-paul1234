@@ -2,18 +2,19 @@
 <h3 align="center">Highly Skilled Network Engineer🔌🖥️ and Developer👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billy-paul123&label=Profile%20views&color=0e75b6&style=flat" alt="billy-paul123" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul123" alt="billy-paul123" /></a> </p>
+-->
 
-- 🔭 I’m currently working on [Router Redundancy Detector](http://project/link)
+- 🔭 I’m currently working on [Router Redundancy Detector](https://github.com/billy-paul1234/RouterRD)
 
 - 🌱 I’m currently learning **Docker, Git**
 
-- 💬 Ask me about **Hacking, Networking**
+- 💬 Ask me about **Hacking, Networking, Programming**
 
 - 📫 How to reach me **billypaul388@gmail.com**
 
-- 📄 Know about my experiences [http://resume/link](http://resume/link)
+- 📄 Know about my experiences [My Resume](https://billypaul.tiiny.site/)
 
 - ⚡ Fun fact **I am funny**
 
