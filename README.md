@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **billypaul388@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://billypaul.tiiny.site/)
+<!-- 📄 Know about my experiences [My Resume](https://billypaul.tiiny.site/)-->
 
 - ⚡ Fun fact **I am funny**
 
