@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Kernel Development** & **Cybersecurity Tools**
+- 🔭 I’m currently Learning **Linux Kernel Development**
 - 💡 Passionate about **Networking, Linux, System Administration & Security**
 - 💬 Ask me about **Hacking, Networking, Programming**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/billy-paul1234)**
@@ -18,20 +18,14 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎓 Certifications
+- 📜 Certified Network Associate  
+- 🔐 Computer Hardware & Network Techonologies  
 
-<p align="left"> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/681a4e8a-70c6-4e5e-a18e-c03287389838" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/0d836366-0f0e-48c0-bb15-967565a22ea7" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Dart_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/bee67c42-f02e-4778-8d10-c0923db968fb" alt="dart" width="40" height="40"/> </a>
- <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/18262145-382b-4dcc-98f9-28e155f4caa2" alt="flutter" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 
-</p>
+## 🛠️ Languages and Tools 
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![Iptables](https://img.shields.io/badge/Iptables-000000?style=for-the-badge&logo=linux&logoColor=white)  
 
 ---
 
@@ -61,6 +55,16 @@
 
 ---
 
+
+## 🏗️ Recent Projects  
+
+- 🔹 [**ARP-KILL**](https://github.com/billy-paul1234/arp-kill) – A network security tool designed to counter MITM attacks by scanning, analyzing network traffic, and deauthenticating attackers.  
+- 🔹 [**RouterRD**](https://github.com/billy-paul1234/RouterRD) – A monitoring tool for detecting routers, sending email alerts if a router goes down.  
+- 🔹 [**Torified-WiFi**](https://github.com/billy-paul1234/Torified-WiFi) – A script to configure a WiFi dongle as an access point (AP) with DHCP, routing internet from `eth0` through Tor to anonymize user traffic.  
+- 🔹 [**Flutter Calculator Vault**](https://github.com/billy-paul1234/flutter_calculator_vault) – A mobile app integrating a calculator with a secure file management system, allowing users to perform calculations while managing sensitive files securely.  
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -72,3 +76,4 @@
 ---
 
 ✨ Thanks for visiting my profile! Keep coding and keep learning! 🚀
+
