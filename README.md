@@ -1,26 +1,25 @@
-<h1 align="center">Hi 👋, I'm Billy Paul</h1>
-<h3 align="center">Highly Skilled SysNet Administrator 🔌🖥️ and Developer👨‍💻</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billy-paul123&label=Profile%20views&color=0e75b6&style=flat" alt="billy-paul123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul1234" alt="billy-paul1234" /></a> </p>
+<h1 align="center">Hey there! 👋 I'm Billy Paul</h1>
+<h3 align="center">🔌 SysNet Administrator | 🖥️ Developer | 🛠️ Cybersecurity Enthusiast</h3>
 
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=billy-paul123&label=Profile%20views&color=0e75b6&style=flat" alt="billy-paul1234" /> </p>
 
-<!-- 🔭 I’m currently working on [Man In The Middle Attack Detection Tool](https://github.com/billy-paul1234/arp-kill)
--->
-- 🌱 I’m currently learning **Kernal Development**
 
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on **Kernel Development** & **Cybersecurity Tools**
+- 💡 Passionate about **Networking, Linux, System Administration & Security**
 - 💬 Ask me about **Hacking, Networking, Programming**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/billy-paul1234)**
+- 📄 Check out my **[Resume](https://github.com/user-attachments/files/18843570/GREY-IT-2.pdf)**
+- ⚡ Fun fact: **I am funny** 😆
 
-- 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/billy-paul1234)
+---
 
-- 📄 Know about my experiences [My Resume](https://github.com/user-attachments/files/18843570/GREY-IT-2.pdf)
+## 🛠️ Languages & Tools
 
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/681a4e8a-70c6-4e5e-a18e-c03287389838" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -34,19 +33,42 @@
 
 </p>
 
-<h3 align="left">Simulators and Emulators:</h3>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/VirtualBox" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual box" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Packet_Tracer" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Packet Tracer" width="40" height="40"/> </a>
- <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🖥️ Simulators & Emulators
 <p align="left">
-<a href="https://linkedin.com/in/billy-paul-913459270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billy-paul-913459270" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/billy_paul123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="billy_paul123" height="30" width="40" /></a>
-<a href="mailto:billypaul388@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="billypaul388@gmail.com" height="30" width="40" /></a>
+    <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/> </a>
+    <a href="https://www.vmware.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="40" height="40"/> </a>
+    <a href="https://www.gns3.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/> </a>
+    <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Packet Tracer" width="40" height="40"/> </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=billy-paul1234&show_icons=true&theme=radical" alt="Billy's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=billy-paul1234&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul1234" alt="billy-paul1234" /></a> </p>
+
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+    <a href="https://linkedin.com/in/billy-paul1234" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/> </a>
+    <a href="https://www.leetcode.com/billy_paul123" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/> </a>
+    <a href="mailto:billypaul388@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/> </a>
+</p>
+
+---
+
+✨ Thanks for visiting my profile! Keep coding and keep learning! 🚀
