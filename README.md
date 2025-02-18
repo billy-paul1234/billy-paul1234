@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Billy Paul</h1>
-<h3 align="center">Highly Skilled Network Engineer🔌🖥️ and Developer👨‍💻</h3>
+<h3 align="center">Highly Skilled SysNet Administrator 🔌🖥️ and Developer👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billy-paul123&label=Profile%20views&color=0e75b6&style=flat" alt="billy-paul123" /> </p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul123" alt="billy-paul123" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul1234" alt="billy-paul1234" /></a> </p>
+
+
+
+
+<!-- 🔭 I’m currently working on [Man In The Middle Attack Detection Tool](https://github.com/billy-paul1234/arp-kill)
 -->
-
-
-
-- 🔭 I’m currently working on [Man In The Middle Attack Detection Tool](https://github.com/billy-paul1234/arp-kill)
-
-- 🌱 I’m currently learning **Docker, Git**
+- 🌱 I’m currently learning **Kernal Development**
 
 - 💬 Ask me about **Hacking, Networking, Programming**
 
-- 📫 How to reach me **billypaul388@gmail.com**
+- 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/billy-paul1234)
 
-<!-- 📄 Know about my experiences [My Resume](https://billypaul.tiiny.site/)-->
+- 📄 Know about my experiences [My Resume](https://github.com/user-attachments/files/18843570/GREY-IT-2.pdf)
 
 - ⚡ Fun fact **I am funny**
 
