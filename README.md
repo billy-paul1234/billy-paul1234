@@ -13,7 +13,7 @@
 - 💡 Passionate about **Networking, Linux, System Administration & Security**
 - 💬 Ask me about **Hacking, Networking, Programming**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/billy-paul1234)**
-- 📄 Check out my **[Resume](https://github.com/user-attachments/files/18843570/GREY-IT-2.pdf)**
+  <!-- 📄 Check out my **[Resume](https://github.com/user-attachments/files/18843570/GREY-IT-2.pdf)**--!>
 - ⚡ Fun fact: **I am funny** 😆
 
 ---
